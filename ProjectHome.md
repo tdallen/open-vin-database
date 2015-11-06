@@ -1,0 +1,1 @@
+OpenVIN strives to provide a fully open-source VIN decoding application, while additionally compiling an open-source database of all advanced VIN information (such as standard equipment/features, technical specs, etc).
